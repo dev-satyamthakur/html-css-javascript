@@ -1,0 +1,21 @@
+.centered {
+    text-align: center;
+}
+
+.large {
+    background-color: #FFA500;
+    padding: 20px;
+    font-size: larger;
+}
+
+.medium {
+    background-color: #FFD700;
+    padding: 20px;
+    font-size: medium;
+}
+
+.small {
+    background-color: #FFA500;
+    padding: 20px;
+    font-size: smaller;
+}
